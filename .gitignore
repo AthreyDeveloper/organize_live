@@ -1,0 +1,9 @@
+
+---
+
+### 🧹 .gitignore
+
+```gitignore
+organized_live/
+*.log
+*.bak
